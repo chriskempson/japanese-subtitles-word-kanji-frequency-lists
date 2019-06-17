@@ -1,4 +1,4 @@
-# Japanese Television Word Frequency List
+# Japanese Subtitles Word Frequency List
 A word frequency and kanji frequency list derived from subtitles from Japanese drama, anime and films.
 
 The data set was comprised of 12,277 subtitle files taken from https://github.com/Matchoo95/JP-Subtitles. The frequeny lists were generated with JParser and cb's Japanese Text Analysis Tool.
